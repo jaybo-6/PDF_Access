@@ -5,6 +5,9 @@ cd PDF_Access
 
 Create ```.env``` file
 ```
+New-Item -Path . -Name ".env" -ItemType "File"
+```
+```
 DB_HOST=your_database_host
 DB_USER=your_database_user
 DB_PASSWORD=your_database_password
