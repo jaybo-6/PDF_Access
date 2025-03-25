@@ -20,6 +20,7 @@ npm install
 ```
 npx nodemon server.js
 ```
+seperate terminal
 ```
 cd client
 npm install
